@@ -1,5 +1,5 @@
-# Games-Showcase  
-Showcase of playable games made by me.  
+# Games Showcase  
+Showcase of playable games developed by me.  
   
 ## Stellar Shapers  
 **Version**: abailable for purchase on Steam  

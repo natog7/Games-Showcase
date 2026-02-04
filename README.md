@@ -3,7 +3,7 @@ Showcase of playable games made by me.
   
 ## Stellar Shapers  
 **Version**: abailable for purchase on Steam  
-**Download**: [Windows](https://store.steampowered.com/app/3429050/Stellar_Shapers/)  
+**Download**: [Steam](https://store.steampowered.com/app/3429050/Stellar_Shapers/)  
 **About**: Stellar Shapers is a space survival 2D game, an action roguelike with RPG elements where you use your strategy to combine design, weapons and passive skills, shaping your ship to your style, facing increasingly powerful enemies.  
   
 ## Chrono Breaker  
